@@ -8,6 +8,7 @@
 #include <QString>
 #include <QVector>
 #include <QPair>
+#include <QFile>
 
 class QVBoxLayout;
 class QSyntaxStyle;

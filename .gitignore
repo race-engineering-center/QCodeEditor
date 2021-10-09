@@ -4,4 +4,5 @@ cmake-build-release/
 .idea/
 .kdev4/
 QCodeEditor.kdev4
+**.txt.user
 *~
